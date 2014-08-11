@@ -21,7 +21,7 @@ BLOG_AUTHOR = "John T. Foster"  # (translatable)
 BLOG_TITLE = "PGE 383 - Computational Geomechanics"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "/index.html"
+SITE_URL = "http://johntfoster.github.com/PGE383/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
@@ -186,7 +186,7 @@ PAGES = (
 # 'html' assumes the file is html and just copies it
 COMPILERS = {
     "rest": ('.rst', '.txt'),
-    "markdown": ('.md', '.mdown', '.markdown'),
+    #"markdown": ('.md', '.mdown', '.markdown'),
     "textile": ('.textile',),
     "txt2tags": ('.t2t',),
     "bbcode": ('.bb',),
@@ -200,7 +200,7 @@ COMPILERS = {
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
-    # "pandoc": ('.rst', '.md', '.txt'),
+    "pandoc": ('.md',),
 }
 
 # Create by default posts in one file format?
