@@ -21,11 +21,12 @@ BLOG_AUTHOR = "John T. Foster"  # (translatable)
 BLOG_TITLE = "PGE 383 - Advanced Geomechanics"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "https://johntfoster.github.com/PGE383-AdvGeomechanics/"
+#SITE_URL = "https://johntfoster.github.com/PGE383-AdvGeomechanics/"
+SITE_URL = "/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "johntfosterjr@gmail.com"
+BLOG_EMAIL = "jfoster@austin.utexas.edu"
 BLOG_DESCRIPTION = "Course webpage"  # (translatable)
 
 # Nikola is multilingual!
