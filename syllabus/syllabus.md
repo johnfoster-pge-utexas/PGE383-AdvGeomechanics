@@ -34,7 +34,7 @@
 
 **Additional References:**
   
-1. [Computational Geomechanics: With Special Reference to Earthquake Engineering](https://www.amazon.com/Computational-Geomechanics-Reference-Earthquake-Engineering/dp/0471982857). Zienkiewicz, Chan, Pastor, Schrefler, and Shiomi. 1999
+1. <a href="https://www.amazon.com/Computational-Geomechanics-Reference-Earthquake-Engineering/dp/0471982857" target="_blank">Computational Geomechanics: With Special Reference to Earthquake Engineering</a>. Zienkiewicz, Chan, Pastor, Schrefler, and Shiomi. 1999
 
 1. [Mechanics and Physics of Porous Solids](https://www.amazon.com/Mechanics-Physics-Porous-Solids-Olivier/dp/0470721359/ref=sr_1_fkmr1_1?ie=UTF8&qid=1408120522&sr=8-1-fkmr1&keywords=Coussy%2C+%E2%80%9CMechanics+and+Physics+of+Porous+Solids%E2%80%9D). Coussy. 2010.
 
