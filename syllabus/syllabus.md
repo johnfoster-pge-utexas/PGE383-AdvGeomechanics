@@ -1,4 +1,12 @@
-## PGE 383 - Advanced Geomechanics
+<!--
+.. title: Syllabus
+.. slug: index
+.. date: 2014-08-10 21:40:03 UTC-05:00
+.. template: notitle.tmpl
+.. description: PGE 383 - Advanced Geomechanics syllabus page
+-->
+
+## PGE 383 - Advanced Geomechanics (Unique #20034)
 
 
 **Instructor:** John T. Foster, Ph.D. \
@@ -8,11 +16,11 @@
 
 
 **Class Location:** CPE 2.202 \
-**Class Time:** TR 9:30 - 11:00 AM \
-**Office Hours:** TR 11:00-12:00 and by appointment
+**Class Time:** TTH 9:30 - 11:00 AM \
+**Office Hours:** TTH 11:00-12:00 and by appointment
 
 
-**Course Website:** <https://johntfoster.github.com/PGE383-AdvGeomechanics/> \
+**Course Website:** <https://utexas.instructure.com/courses/1119539/> \
 
 
 **Course Description**: Formulation, theory, and computer implementation of inelastic finite elements for pressure sensitive and nearly incompressible materials. The targeted physical settings will be the coupled behaviour of pore fluids and deformation of solid materials and the nonlinear elastic-inelastic behaviour of geomaterials.  If time allows, regularization and extended techniques for special treatment of the localization and failure of geomaterials will be discussed. \
