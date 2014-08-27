@@ -81,7 +81,7 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 | Nov. 18, 20     | Coupled Solution Techniques | |
 | Nov. 25         | Plasticity Return Algorithms & Consistent Tangent Moduli| |
 | Dec. 2, 4       | Mixed Finite Element formulation | |
-| Dec. ??         | **Final Exam** | |
+| Dec. 10         | **Final Exam** | |
 
 
 \
