@@ -95,6 +95,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/syllabus/", "Syllabus"),
+        ("/course-mat/", "Course Materials"),
     ),
 }
 
@@ -168,13 +169,14 @@ PAGES = (
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
-    ("syllabus/*.md", "syllabus", "notitle.tmpl"),
+    ("course-mat/course-mat.md", "course-mat", "notitle.tmpl"),
+    ("syllabus/syllabus.md", "syllabus", "notitle.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-# FILES_FOLDERS = {'files': '' }
+FILES_FOLDERS = {"files": "files", "notes": "notes", }
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
