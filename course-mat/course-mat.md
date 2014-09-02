@@ -12,7 +12,7 @@ and any other reference material.
 
 [Lecture Notes](/notes/09-04-2014.pdf)
 
-<a href="//www.youtube.com/embed/gSA0OUzoosg?list=PLyQr4689RR7ArTKVNPHWl_7CIyoxsE8VJ" target="blank_">Lecture Recording</a>
+<a href="https://www.youtube.com/watch?v=gSA0OUzoosg&list=PLyQr4689RR7ArTKVNPHWl_7CIyoxsE8VJ" target="blank_">Lecture Recording</a>
 
 ### 09/02/2014
 
