@@ -12,16 +12,19 @@ and any other reference material.
 
 [Lecture Notes](/notes/09-04-2014.pdf)
 
-<a href="https://www.youtube.com/watch?v=gSA0OUzoosg&list=PLyQr4689RR7ArTKVNPHWl_7CIyoxsE8VJ" target="blank_">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7ArTKVNPHWl_7CIyoxsE8VJ" target="blank_">Lecture Recording</a>
+
 
 ### 09/02/2014
 
-Will be posted shortly
+[Lecture Notes](/notes/09-02-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7Cr2uCqFPYWNELZ0CaBF3nc" target="blank_">Lecture Recording</a>
 
 ### 08/28/2014
 
 [Lecture Notes](/notes/08-28-2014.pdf)
 
-<a href="//www.youtube.com/watch?v=ZaFDhoncLBU&list=PLyQr4689RR7BNP9HEMbiJeB2vA2ZrD4Pp" target="blank_">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7Cr2uCqFPYWNELZ0CaBF3nc" target="blank_">Lecture Recording</a>
 
 
