@@ -1,0 +1,18 @@
+language: python
+before_install:
+- export PATH="$HOME/pandoc:$PATH"
+- mkdir $HOME/pandoc
+- curl -O https://s3.amazonaws.com/rstudio-buildtools/pandoc-1.12.3.zip
+- unzip -j pandoc-1.12.3.zip pandoc-1.12.3/linux/debian/x86_64/pandoc -d $HOME/pandoc
+- chmod +x $HOME/pandoc/pandoc
+- pandoc --version
+- rm pandoc-1.12.3.zip
+python:
+- '2.7'
+install:
+- pip install -r requirements.txt
+script: nikola build
+after_success: .utilities/travis_deploy.sh
+env:
+  global:
+    secure: L50Xh5+EjNFQjWbRRksOR4cytok0NQJVxuzpJLaTcrwbPpJHYsFxFMfYWw0x6pK7LnKKGPw3YHzKLH4i9JeIYAtQi649KJqRBrRdFNSnAmazFzJ85tih+swun1WmdMpUvDT/ZjUluVEXzf3XWuat3bJkLlv+IoDClYBPrX+gk0c=
