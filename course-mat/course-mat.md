@@ -13,7 +13,7 @@ and any other reference material.
 
 [Lecture Notes](/notes/09-09-2014.pdf)
 
-<!--a href="//www.youtube.com/playlist?list=PLyQr4689RR7ArTKVNPHWl_7CIyoxsE8VJ" target="blank_">Lecture Recording</a-->
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7ABGvgjpnRgu8CyBn01qjFx" target="blank_">Lecture Recording</a>
 
 [Homework Assignment 1](/files/assignment1.pdf) Due 9/18/2014
 
