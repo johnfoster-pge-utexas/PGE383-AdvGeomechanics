@@ -20,6 +20,5 @@ pyzmq==14.3.1
 requests==2.3.0
 six==1.7.3
 tornado==3.2.2
-travis==0.0.2
 webassets==0.10.1
 wsgiref==0.1.2
