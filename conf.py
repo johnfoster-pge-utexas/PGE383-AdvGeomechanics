@@ -168,7 +168,6 @@ PAGES = (
     ("stories/*.ipynb", "stories", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
     ("course-mat/course-mat.md", "course-mat", "notitle.tmpl"),
     ("syllabus/syllabus.md", "syllabus", "notitle.tmpl"),
 )
