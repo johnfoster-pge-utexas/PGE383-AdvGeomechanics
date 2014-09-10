@@ -2,7 +2,7 @@
 .. title: Mohr's Circles
 .. slug: mohrs-circles
 .. date: 2014-09-09 16:27:12 UTC-05:00
-.. tags: 
+.. tags: draft
 .. link: 
 .. description: 
 .. type: text
