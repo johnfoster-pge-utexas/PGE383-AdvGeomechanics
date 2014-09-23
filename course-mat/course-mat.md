@@ -15,6 +15,9 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7Ak7YsMssg5beGJjyA0shao" target="blank_">Lecture Recording</a>
 
+<a href="//nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment1_solution.ipynb" target="blank_">Homework Assignment 1 Solution</a>
+
+
 
 ### 09/18/2014
 
