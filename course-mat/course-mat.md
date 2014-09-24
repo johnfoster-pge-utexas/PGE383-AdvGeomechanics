@@ -17,6 +17,8 @@ and any other reference material.
 
 <a href="//nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment1_solution.ipynb" target="blank_">Homework Assignment 1 Solution</a>
 
+[Homework Assignment 2](/files/assignment2.pdf) Due 10/7/2014
+
 
 
 ### 09/18/2014
