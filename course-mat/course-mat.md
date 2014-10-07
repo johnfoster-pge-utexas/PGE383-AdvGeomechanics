@@ -15,6 +15,8 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7DB8vUfl0nsQM32TJ83ca10" target="blank_">Lecture Recording</a>
 
+[Homework Assignment 3](/files/assignment3.pdf) Due 10/14/2014
+
 
 ### 09/30/2014
 
