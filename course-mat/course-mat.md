@@ -9,6 +9,15 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 10/09/2014
+
+[Lecture Notes](/notes/10-09-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7BzeKbMbhPgnZUrUYX1yoDa" target="blank_">Lecture Recording</a>
+
+[Calculus of Variations Notes](http://nbviewer.ipython.org/github/johntfoster/CalculusOfVariationsNotes/blob/master/CalculusOfVariations.ipynb)
+
+
 ### 10/07/2014
 
 [Lecture Notes](/notes/10-07-2014.pdf)
