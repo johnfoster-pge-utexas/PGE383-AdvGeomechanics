@@ -15,7 +15,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7BzeKbMbhPgnZUrUYX1yoDa" target="blank_">Lecture Recording</a>
 
-[Calculus of Variations Notes](http://nbviewer.ipython.org/github/johntfoster/CalculusOfVariationsNotes/blob/master/CalculusOfVariations.ipynb)
+<a href="http://nbviewer.ipython.org/github/johntfoster/CalculusOfVariationsNotes/blob/master/CalculusOfVariations.ipynb" target="blank_">Calculus of Variations Notes</a>
 
 
 ### 10/07/2014
