@@ -17,6 +17,8 @@ and any other reference material.
 
 <a href="http://nbviewer.ipython.org/github/johntfoster/CalculusOfVariationsNotes/blob/master/CalculusOfVariations.ipynb" target="blank_">Calculus of Variations Notes</a>
 
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment2_solution.ipynb" target="blank_">Homework Assignment 2 Solution</a>
+
 
 ### 10/07/2014
 
