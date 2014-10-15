@@ -12,7 +12,15 @@ python:
 install:
 - pip install -r requirements.txt
 script: nikola build
-after_success: .utilities/travis_deploy.sh
-env:
-  global:
-    secure: HA1EeUC0nGQV4hWKcAmlObqP8FR6+Rp0kdY2+chSRWJk0KLfNox9iUfDYY7wNrUOib/YqEdZEkGocYY7QDl5iwW0Jt9JAKN7HyK7rDqnn2dQjgwZYvIqI1wxcGC2/5fkYH8bK9rpsuNsWPv0bPEOXvdn0fHhwxoq4TpKZwQiZzA=
+after_success: 
+    # Get to the Travis build directory, configure git and clone the repo
+    - cd $HOME
+    - git config --global user.email ${GH_EMAIL}
+    - git config --global user.name ${GH_NAME}
+    # Commit and Push the Changes
+    - git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/johntfoster/PGE383-AdvGeomechanics gh-pages > /dev/null
+    - cd gh-pages
+    - cp -Rf $HOME/build/johntfoster/PGE383-AdvGeomechanics/output/* .
+    - git add -A
+    - git commit -m "Travis CI autocommit from travis build $TRAVIS_BUILD_NUMBER"
+    - git push -fq origin gh-pages > /dev/null
