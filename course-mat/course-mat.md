@@ -9,6 +9,17 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 10/21/2014
+
+[Lecture Notes](/notes/10-21-2014.pdf)
+
+[1D Finite Element Slides](/files/1DFiniteElements.pdf)
+
+[Ritz Method *Mathematica* Notebook](/files/RitzMethodMMA.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7A6430a-x8-yvwh3RRqiNFn">Lecture Recording</a>
+
+
 ### 10/16/2014
 
 [Lecture Notes](/notes/10-16-2014.pdf)
