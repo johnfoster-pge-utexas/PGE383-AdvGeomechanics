@@ -13,6 +13,8 @@ and any other reference material.
 
 [Homework Assignment 4](/files/assignment4.pdf) Due 11/06/2014
 
+<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/MidtermExamSolution.ipynb" target="blank_">Midterm Exam Solution</a>
+
 ### 10/21/2014
 
 [Lecture Notes](/notes/10-21-2014.pdf)
