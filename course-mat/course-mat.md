@@ -9,6 +9,10 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 10/23/2014
+
+[Homework Assignment 4](/files/assignment4.pdf) Due 11/06/2014
+
 ### 10/21/2014
 
 [Lecture Notes](/notes/10-21-2014.pdf)
