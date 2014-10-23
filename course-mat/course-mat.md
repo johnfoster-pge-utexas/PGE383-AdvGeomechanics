@@ -11,9 +11,14 @@ and any other reference material.
 
 ### 10/23/2014
 
+[Lecture Notes](/notes/10-23-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7CzT_pY37lThVkoIXOzTy2Y">Lecture Recording</a>
+
 [Homework Assignment 4](/files/assignment4.pdf) Due 11/06/2014
 
 <a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/MidtermExamSolution.ipynb" target="blank_">Midterm Exam Solution</a>
+
 
 ### 10/21/2014
 
