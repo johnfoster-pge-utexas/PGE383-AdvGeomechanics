@@ -28,6 +28,13 @@ and any other reference material.
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7BKUkFwnMIfCamz0PlyhCPk">Lecture Recording</a>
 
 
+### 10/30/2014
+
+[Lecture Notes](/notes/10-30-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7BHXz0x3U2aUU6I9VdSbvaT">Lecture Recording</a>
+
+
 ### 10/28/2014
 
 [Lecture Notes](/notes/10-28-2014.pdf)
