@@ -13,6 +13,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7CevkvG80L8PEcBfG31RTge">2D scalar field FEM example</a>
 
+[Homework Assignment 5](/files/assignment5.pdf) Due 11/25/2014
 
 ### 11/06/2014
 
