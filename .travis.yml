@@ -18,9 +18,9 @@ after_success:
     - git config --global user.email ${GH_EMAIL}
     - git config --global user.name ${GH_NAME}
     # Commit and Push the Changes
-    - git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/johntfoster/PGE383-AdvGeomechanics gh-pages > /dev/null
+    - git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/johnfoster-pge-utexas/PGE383-AdvGeomechanics gh-pages > /dev/null
     - cd gh-pages
-    - cp -Rf $HOME/build/johntfoster/PGE383-AdvGeomechanics/output/* .
+    - cp -Rf $HOME/build/johnfoster-pge-utexas/PGE383-AdvGeomechanics/output/* .
     - git add -A
     - git commit -m "Travis CI autocommit from travis build $TRAVIS_BUILD_NUMBER"
     - git push -fq origin gh-pages > /dev/null

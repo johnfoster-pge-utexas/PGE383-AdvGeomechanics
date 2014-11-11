@@ -9,6 +9,14 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 11/11/2014
+
+[Lecture Notes](/notes/11-11-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7BQd5caChuh3wKgxJ1j_P-0">Lecture Recording</a>
+
+
+
 ### 11/09/2014
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7CevkvG80L8PEcBfG31RTge">2D scalar field FEM example</a>
