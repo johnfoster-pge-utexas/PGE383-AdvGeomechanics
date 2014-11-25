@@ -13,6 +13,8 @@ and any other reference material.
 
 [Homework Assignment 6](/files/assignment6.pdf) Due 12/04/2014
 
+[Lecture Notes](/notes/11-25-2014.pdf)
+
 
 ### 11/11/2014
 
