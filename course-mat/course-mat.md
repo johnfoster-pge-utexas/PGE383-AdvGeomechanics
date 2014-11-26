@@ -15,6 +15,8 @@ and any other reference material.
 
 [Lecture Notes](/notes/11-25-2014.pdf)
 
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7BcUJVy_4ZLNfR0bG9O2iMf">Lecture Recording</a>
+
 
 ### 11/11/2014
 
