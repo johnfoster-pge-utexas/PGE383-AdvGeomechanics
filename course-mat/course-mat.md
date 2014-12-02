@@ -15,7 +15,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7BgN-yZZc6lA1GvSGDB6H9i">Lecture Recording</a>
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment4_solution.ipynb" target="blank_">Homework Assignment 4 Solution</a>
+<a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment4_solution.ipynb" target="blank_">Homework Assignment 4 Solution</a>
 
 
 ### 11/25/2014
@@ -77,7 +77,7 @@ and any other reference material.
 
 [Homework Assignment 4](/files/assignment4.pdf) Due 11/06/2014
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/MidtermExamSolution.ipynb" target="blank_">Midterm Exam Solution</a>
+<a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/MidtermExamSolution.ipynb" target="blank_">Midterm Exam Solution</a>
 
 
 ### 10/21/2014
@@ -107,7 +107,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7A9l8g69yZeGFz1dpWE56G_" target="blank_">Lecture Recording</a>
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment3_solution.ipynb" target="blank_">Homework Assignment 3 Solution</a>
+<a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment3_solution.ipynb" target="blank_">Homework Assignment 3 Solution</a>
 
 
 ### 10/09/2014
@@ -118,7 +118,7 @@ and any other reference material.
 
 <a href="http://nbviewer.ipython.org/github/johntfoster/CalculusOfVariationsNotes/blob/master/CalculusOfVariations.ipynb" target="blank_">Calculus of Variations Notes</a>
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment2_solution.ipynb" target="blank_">Homework Assignment 2 Solution</a>
+<a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment2_solution.ipynb" target="blank_">Homework Assignment 2 Solution</a>
 
 
 ### 10/07/2014
@@ -151,7 +151,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7Ak7YsMssg5beGJjyA0shao" target="blank_">Lecture Recording</a>
 
-<a href="http://nbviewer.ipython.org/github/johntfoster/PGE383-AdvGeomechanics/blob/master/files/assignment1_solution.ipynb" target="blank_">Homework Assignment 1 Solution</a>
+<a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment1_solution.ipynb" target="blank_">Homework Assignment 1 Solution</a>
 
 [Homework Assignment 2](/files/assignment2.pdf) Due 10/07/2014
 
