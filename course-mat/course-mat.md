@@ -8,6 +8,10 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, 
 and any other reference material.
 
+### 12/04/2014
+
+[Final Exam](/files/final/final.pdf)
+
 
 ### 12/02/2014
 
