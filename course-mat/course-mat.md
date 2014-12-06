@@ -18,6 +18,10 @@ and any other reference material.
 
 [Final Exam](/files/final/final.pdf)
 
+[Lecture Notes](/notes/12-04-2014.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7DbIhL5hCd27B63kSWc53HY">Lecture Recording</a>
+
 
 ### 12/02/2014
 
