@@ -9,3 +9,5 @@
 -->
 
 I've posted a Python implementation for the solution to Homework Assignment #6 to the [Course Materials](/course-mat/) page.  I will try to post a *Mathematica* implementation for your to reference before the end of the weekend.
+
+**Update 12-7-2014:** A *Mathematica* solution is now available as well, see the [Course Materials](/course-mat/) page.
