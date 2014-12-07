@@ -13,6 +13,11 @@ and any other reference material.
 
 <a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment6_solution.ipynb" target="blank_">Homework Assignment 6 Solution</a>
 
+[Homework Assignment 6 *Mathematica* Solution](/files/assignment6_solution.nb)
+
+[Homework Assignment 6 *Mathematica* Solution (PDF)](/files/assignment6_solution.pdf)
+
+
 
 ### 12/04/2014
 
