@@ -1,13 +1,15 @@
 <!--
 .. title: Course Materials
 .. slug: index
-.. date: 2014-08-29 11:24:22 UTC-05:00
+.. date: 2015-08-25 11:24:22 UTC-05:00
 -->
 
 This page provides a listing, in reverse chronological order, of course materials that are associated to
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, 
 and any other reference material.
 
+
+<!--
 
 ### 12/05/2014
 
@@ -226,5 +228,7 @@ and any other reference material.
 [Lecture Notes](/notes/08-28-2014.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7Cr2uCqFPYWNELZ0CaBF3nc" target="blank_">Lecture Recording</a>
+
+-->
 
 
