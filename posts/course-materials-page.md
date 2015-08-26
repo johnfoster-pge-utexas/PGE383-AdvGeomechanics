@@ -2,7 +2,7 @@
 .. title: Course Materials Page
 .. slug: course-materials-page
 .. date: 2014-08-29 11:41:49 UTC-05:00
-.. tags: 
+.. tags: draft
 .. link: 
 .. description: 
 .. type: text
