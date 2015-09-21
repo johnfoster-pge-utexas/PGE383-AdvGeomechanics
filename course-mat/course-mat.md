@@ -8,6 +8,12 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
 
+### 09/21/2015
+
+[Homework Assignment 2](/files/assignment2.pdf) -- Due Monday, September 28, 2015
+
+
+
 ### 09/18/2015
 
 [Lecture Notes](/notes/09-18-2015.pdf)
@@ -52,7 +58,7 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 ### 09/04/2015
 
-[Homework Assignment 1](/files/assignment1.pdf) -- Due Wednesday, September 16, 2015
+[Homework Assignment 1](/files/assignment1.pdf) -- Due Monday, September 21, 2015
 
 [Lecture Notes](/notes/09-04-2015.pdf)
 
