@@ -12,12 +12,16 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 <a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/MidtermExamSolution.ipynb" target="blank_">Midterm Exam Solution</a>
 
+[Lecture Notes](/notes/10-06-2015.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7D6tT7JboS0moGuRZG7k-CK">Lecture Recording</a>
+
 
 ### 10/02/2015
 
 [Lecture Notes](/notes/10-02-2015.pdf)
 
-<a href="https://www.youtube.com/playlist?list=PLyQr4689RR7ApyU31yRYrmmTk2kKZ5cuL">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7ApyU31yRYrmmTk2kKZ5cuL">Lecture Recording</a>
 
 <a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment2_solution.ipynb" target="blank_">Homework 2 Solution</a>
 
