@@ -8,11 +8,18 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
 
-### 10/15/2015
+### 10/07/2015
+
+[Lecture Notes](/notes/10-07-2015.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7DsG2y6ucGqrpwTzvKFJ32A">Lecture Recording</a>
+
+
+### 10/04/2015
 
 <a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/MidtermExamSolution.ipynb" target="blank_">Midterm Exam Solution</a>
 
-[Lecture Notes](/notes/10-06-2015.pdf)
+[Lecture Notes](/notes/10-05-2015.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7D6tT7JboS0moGuRZG7k-CK">Lecture Recording</a>
 
