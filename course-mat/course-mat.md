@@ -14,6 +14,9 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7DsG2y6ucGqrpwTzvKFJ32A">Lecture Recording</a>
 
+<a href="//www.youtube.com/watch?v=x7jSGYv7bWo">Introduction to the Calculus of Variations</a>
+
+
 
 ### 10/04/2015
 
