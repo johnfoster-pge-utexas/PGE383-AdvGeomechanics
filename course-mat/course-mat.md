@@ -9,6 +9,8 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 ### 10/12/2015
 
+[Homework Assignment 3](/files/assignment3.pdf) -- Due Friday, October, 23, 2015
+
 [Lecture Notes](/notes/10-12-2015.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7AIKmYR1rc8uM_fCHrrm4cu">Lecture Recording</a>
