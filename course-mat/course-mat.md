@@ -10,15 +10,13 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 ### 10/30/2015
 
-[Homework Assignment 4](/files/assignment4.pdf) -- Due Friday, November, 6, 2015
+[Lecture Notes](/notes/10-30-2015.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7Dpb7BsCZvh1Z_HYy2--bGO">Lecture Recording</a>
 
 [Plane Elasticity Stiffness Matrix Example](https://youtu.be/HWup6NiYop4?list=PLyQr4689RR7DIKTWX12cVIfnu9erVRkHE)
 
-<!--
-[Lecture Notes](/notes/10-30-2015.pdf)
-
-<a href="//www.youtube.com/playlist?list=PLyQr4689RR7A5rjmftfmtHeKFcaVRguHf">Lecture Recording</a>
--->
+[Homework Assignment 4](/files/assignment4.pdf) -- Due Friday, November, 6, 2015
 
 
 ### 10/28/2015
