@@ -42,7 +42,7 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 ### 11/02/2015
 
-[Lecture Notes](/notes/10-02-2015.pdf)
+[Lecture Notes](/notes/11-02-2015.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7CcxKxl-b9gWUCqIqMaOHrN">Lecture Recording</a>
 
