@@ -14,6 +14,8 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 <a href="//www.youtube.com/playlist?list=PLyQr4689RR7BzHZLLsrCn-FAXok8EA8GV">Lecture Recording</a>
 
+<a href="http://nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment4_solution.ipynb" target="blank_">Homework Assignment 4 Solution</a>
+
 
 ### 11/06/2015
 
