@@ -80,4 +80,4 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 | Dec. 12         | **Final Exam** | |  
 
 
-**Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
+**Disability Statement:** The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
