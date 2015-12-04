@@ -7,6 +7,33 @@
 This page provides a listing, in reverse chronological order, of course materials that are associated to
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
+
+### 12/04/2015
+
+<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/assignment5_solution.ipynb" target="blank_">Homework Assignment 5 Solution</a>
+
+
+### 12/02/2015
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7DG8dxPXmpC-PeY1EvGNKY8">Lecture Recording</a>
+
+[Slides on MPI and mpi4py](/notes/MPI.pdf)
+
+[Slides on Trilinos & PyTrilinos](/notes/Trilinos&PytrilinosOverview.pdf)
+
+[Slides on Epetra Maps and Vectors](/notes/EpetraMaps&Vectors.pdf)
+
+
+
+### 11/30/2015
+
+[Lecture Notes](/notes/11-30-2015.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLyQr4689RR7Cqu7Uk18KUllTpyupMAMG7">Lecture Recording</a>
+
+<a href="//htmlpreview.github.io/?https://github.com/kostyfisik/FEA-compare/blob/master/table.html">Comparison of FEA Code Features</a>
+
+
 ### 11/23/2015
 
 [Lecture Notes](/notes/11-23-2015.pdf)
