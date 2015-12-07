@@ -8,6 +8,11 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, and any other reference material.
 
 
+### 12/07/2015
+
+<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/final.ipynb" target="blank_">Final Project</a>
+
+
 ### 12/04/2015
 
 [Lecture Notes](/notes/12-04-2015.pdf)
