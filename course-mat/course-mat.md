@@ -10,6 +10,10 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 ### 12/07/2015
 
+[Drucker-Prager Example (PDF)](/files/Drucker-Prager.pdf)
+
+[Drucker-Prager Example (*Mathematica* notebook)](/files/Drucker-Prager.nb)
+
 <a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE383-AdvGeomechanics/blob/master/files/final.ipynb" target="blank_">Final Project</a>
 
 
