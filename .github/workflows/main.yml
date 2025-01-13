@@ -1,0 +1,28 @@
+on: push
+jobs:
+  conda:
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/checkout@v2
+      - uses: mamba-org/provision-with-micromamba@main
+        with:
+          environment-file: environment.yml
+      - name: Conda Info
+        shell: bash -l {0}
+        run: |
+          conda info
+          conda list
+          conda config --show-sources
+          conda config --show
+      - name: Install Nikola
+        shell: bash -l {0}
+        run: |
+          pip install markdown==2.6.6 nikola==7.7.12
+          pip install ghp-import==2.1.0
+          #pip install git+git://github.com/c-w/ghp-import.git@ea73ce7e1fc49d6cbf84ded7428489f53a6d88ff
+      - name: Build Site
+        shell: bash -l {0}
+        run: nikola build
+      - name: Deploy to Github 
+        shell: bash -l {0}
+        run: ghp-import -p -f -n -m "Nikola auto commit" output

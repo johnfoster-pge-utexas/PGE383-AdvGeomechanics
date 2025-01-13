@@ -6,19 +6,19 @@
 .. description: PGE 383 - Advanced Geomechanics syllabus page
 -->
 
-## PGE 383 - Advanced Geomechanics (Unique #19250, #19320)
+## PGE 383 - Advanced Geomechanics (Unique #20360)
 
 
 **Instructor:** John T. Foster, Ph.D.  
-**Office:** PGE 3.108  
+**Office:** CPE 3.108  
 **Phone:** 512-471-6972  
-**Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)  
+**Email:** [john.foster@utexas.edu](mailto:john.foster@utexas.com)  
 
 **Class Location:** CPE 2.202  
-**Class Time:** MWF 11:00 - 12:00 AM  
-**Office Hours:** TTH 9:00-11:00 and by appointment  
+**Class Time:** TTh 11:00 AM - 12:30 PM  
+**Office Hours:** W 11:00 AM -12:00 PM Virtual [Zoom Link](https://utexas.zoom.us/my/johntfoster) (password givin in class) and by appointment  
 
-**Course Website:** <https://utexas.instructure.com/courses/1150226>
+**Course Website:** <https://utexas.instructure.com/courses/1410715>
 
 **Course Description**: Formulation, theory, and computer implementation of inelastic finite elements for pressure sensitive and nearly incompressible materials. The targeted physical settings will be the coupled behaviour of pore fluids and deformation of solid materials and the nonlinear elastic-inelastic behaviour of geomaterials.  If time allows, regularization and extended techniques for special treatment of the localization and failure of geomaterials will be discussed.
 
@@ -62,22 +62,23 @@ Below is a general outline of what I intend to cover in the course.  This is sub
 
 | Week            | Topic               | Notes     |
 |-----------------|---------------------|-----------|
-| Aug. 26, 28     | Introduction        |           |
-| Aug. 31, Sept. 2, 4      | Kinematics & Strain |           |
-| Sept. 9, 11     | Stress              |           |
-| Sept. 14, 16, 18    | Governing Equations of Continua |  |
-| Sept. 21, 23, 25    | Infinitesimal Elasticity Constitutive Theory  |  |
-| Sept. 28, 30, Oct. 2 | Infinitesimal Plasticity Constitutive Theory  |  |
-| Oct. 5, 7, 9       |  Poroelasticty Theory |  |
-| Oct. 12, 14, 16     | **Midterm Exam**, Introduction to FEM  | |
-| Oct. 19, 21, 23     | Strong Form, Weak Form of Governing Equations | |
-| Oct. 26, 28, 30     | Element Formulations | |
-| Nov. 2, 4, 6       | Isoparametric Elements and Gauss Integration | |
-| Nov. 9, 11, 13     | Plane Poroelasticity FE formulation | |
-| Nov. 16, 18, 20     | Coupled Solution Techniques | |
-| Nov. 23, 25         | Plasticity Return Algorithms & Consistent Tangent Moduli | |
-| Nov. 30, Dec. 2, 4       | Mixed Finite Element formulation | |
-| Dec. 12         | **Final Exam** | |  
+| 1     | Introduction        |           |
+| 2      | Kinematics & Strain |           |
+| 3     | Stress              |           |
+| 4    | Governing Equations of Continua |  |
+| 5    | Infinitesimal Elasticity Constitutive Theory  |  |
+| 6 | Infinitesimal Plasticity Constitutive Theory  |  |
+| 7       |  Poroelasticty Theory |  |
+| 8     | **Midterm Exam**, Introduction to FEM  | |
+| 9     | Strong Form, Weak Form of Governing Equations | |
+| 10              | **Spring Break**         | |
+| 11     | Element Formulations | |
+| 12       | Isoparametric Elements and Gauss Integration | |
+| 13     | Plane Poroelasticity FE formulation | |
+| 14     | Coupled Solution Techniques | |
+| 15         | Plasticity Return Algorithms & Consistent Tangent Moduli | |
+| 16       | Mixed Finite Element formulation | |
+| May 2         | **Final Exam** | |  
 
 
 **Disability Statement:** The University of Texas at Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
