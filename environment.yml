@@ -1,0 +1,7 @@
+name: PGE383
+channels:
+  - defaults
+dependencies:
+  - jinja2=2.10.1
+  - python=3.7.3
+  - pip=20.3.3

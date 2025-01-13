@@ -4,7 +4,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - uses: actions/checkout@v2
-      - uses: mamba-org/provision-with-micromamba@main
+      - uses: mamba-org/setup-micromamba@v2
         with:
           environment-file: environment.yml
       - name: Conda Info

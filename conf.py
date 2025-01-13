@@ -26,7 +26,7 @@ SITE_URL = "/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-BLOG_EMAIL = "jfoster@austin.utexas.edu"
+BLOG_EMAIL = "john.foster@utexas.edu"
 BLOG_DESCRIPTION = "Course webpage"  # (translatable)
 
 # Nikola is multilingual!
