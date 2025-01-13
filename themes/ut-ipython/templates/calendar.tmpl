@@ -1,0 +1,68 @@
+{#  -*- coding: utf-8 -*- #}
+{% import 'post_helper.tmpl' as helper with context %}
+{% import 'post_header.tmpl' as pheader with context %}
+{% import 'comments_helper.tmpl' as comments with context %}
+{% extends 'base.tmpl' %}
+
+{% block extra_head %}
+    {{ super() }}
+    {{ helper.open_graph_metadata(post) }}
+    {{ helper.twitter_card_information(post) }}
+    {{ helper.meta_translations(post) }}
+{% endblock %}
+
+
+{% block content %}
+<article class="post-{{ post.meta('type') }} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <div class="e-content entry-content" itemprop="articleBody text">
+    {{ post.text() }}
+    </div>
+</article>
+
+{{ base.late_load_js() }}
+<script>
+
+    $(document).ready(function() {
+
+        $('#calendar').fullCalendar({
+
+            theme: true,
+            weekends: false,
+            header: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'month,agendaWeek,agendaDay'
+            },
+
+            googleCalendarApiKey: 'AIzaSyB68ZmmL0y2y9zfgCicaVC8uBGMDwki2pc',
+            events: {
+                googleCalendarId: 'jo135s8fnku1ugoml22688q9d4@group.calendar.google.com',
+                //backgroundColor: '#F2A900',
+                backgroundColor: '#D6D2C4',
+                borderColor: '#9c4700',
+            },
+
+			
+			eventClick: function(event) {
+				// opens events in a popup window
+				window.open(event.url, 'gcalevent', 'width=700,height=600');
+				return false;
+			},
+			
+			loading: function(bool) {
+				$('#loading').toggle(bool);
+            }
+
+        }); 
+    });
+</script>
+    {% block extra_js %}{% endblock %}
+    {% if annotations and post and not post.meta('noannotations') %}
+        {{ notes.code() }}
+    {% elif not annotations and post and post.meta('annotations') %}
+        {{ notes.code() }}
+    {% endif %}
+{{ body_end }}
+{{ template_hooks['body_end']() }}
+
+{% endblock %}
