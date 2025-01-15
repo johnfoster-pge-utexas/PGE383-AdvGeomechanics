@@ -9,7 +9,7 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 
 ### Lecture Playlist
 
-All new lecutures will be added to the playlist below in order as they were given in class.
+All new lectures will be added to the playlist below in order as they were given in class.
 
 
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
