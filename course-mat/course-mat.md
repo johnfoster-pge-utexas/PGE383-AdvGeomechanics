@@ -14,6 +14,11 @@ All new lectures will be added to the playlist below in order as they were given
 
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
 
+
+### 01/16/2025
+
+[Lecture Notes](/notes/01-16-2025.pdf)
+
 ### 01/14/2025
 
 [Lecture Notes](/notes/01-14-2025.pdf)
