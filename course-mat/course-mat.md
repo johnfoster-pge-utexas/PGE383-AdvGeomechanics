@@ -14,7 +14,14 @@ All new lectures will be added to the playlist below in order as they were given
 
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
 
+### 02/11/2025
+
+[Assignment 1](/files/assignment1.pdf)
+
+
 ### 02/06/2025
+
+Note:  The notes below where the ones I delivered in class.  However, there was a problem with the video recording from that day, so I posted some old lecture on similar topics.  Therefore, while they cover the same topics, the notes posted below are not identical to the ones shown in the video.
 
 [Lecture Notes](/notes/02-06-2025.pdf)
 
