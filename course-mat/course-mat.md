@@ -18,6 +18,8 @@ All new lectures will be added to the playlist below in order as they were given
 
 [Lecture Notes](/notes/02-28-2025.pdf)
 
+[Assignment 2](/files/assignment2.pdf)
+
 ### 02/20/2025
 
 [Lecture Notes](/notes/02-25-2025.pdf)
