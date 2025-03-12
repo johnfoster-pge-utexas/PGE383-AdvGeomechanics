@@ -17,6 +17,7 @@ All new lectures will be added to the playlist below in order as they were given
 ### 03/11/2025
 
 [Assignment 1 Solution](/files/assignment1_solution.pdf)
+[Assignment 2 Solution](/files/assignment2_solution.pdf)
 
 ### 02/20/2025
 
