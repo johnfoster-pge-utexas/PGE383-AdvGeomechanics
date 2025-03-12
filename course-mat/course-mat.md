@@ -15,9 +15,9 @@ All new lectures will be added to the playlist below in order as they were given
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
 
 ### 03/11/2025
-
 [Assignment 1 Solution](/files/assignment1_solution.pdf)
 [Assignment 2 Solution](/files/assignment2_solution.pdf)
+[Finite Deformation Poromechanics Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5172944)
 
 ### 02/20/2025
 
