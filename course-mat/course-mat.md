@@ -14,6 +14,9 @@ All new lectures will be added to the playlist below in order as they were given
 
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
 
+### 03/27/2025
+[Midterm Exam Solution](/files/MidtermExamSolution.pdf)  
+
 ### 03/11/2025
 [Assignment 1 Solution](/files/assignment1_solution.pdf)  
 [Assignment 2 Solution](/files/assignment2_solution.pdf)  
