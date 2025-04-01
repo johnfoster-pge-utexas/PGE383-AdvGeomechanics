@@ -17,6 +17,11 @@ All new lectures will be added to the playlist below in order as they were given
 ### 03/27/2025
 [Midterm Exam Solution](/files/MidtermExamSolution.pdf)  
 
+### 03/25/2025
+There was a mistake in the derivation for notes I gave in class so I am provided a typeset corrected version. The final result is unchanged.  
+
+[Mass Balance Derivation](/files/mass_balance.pdf)  
+
 ### 03/11/2025
 [Assignment 1 Solution](/files/assignment1_solution.pdf)  
 [Assignment 2 Solution](/files/assignment2_solution.pdf)  
