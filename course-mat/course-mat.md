@@ -17,6 +17,7 @@ All new lectures will be added to the playlist below in order as they were given
 ### 04/03/2025
 
 [Lecture Notes](/notes/04-03-2025.pdf)
+[Mathematica Notebook](/notes/04-03-2025_mathematica_notebook.pdf)
 
 ### 04/01/2025
 
