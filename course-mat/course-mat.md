@@ -14,6 +14,14 @@ All new lectures will be added to the playlist below in order as they were given
 
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
 
+### 04/03/2025
+
+[Lecture Notes](/notes/04-03-2025.pdf)
+
+### 04/01/2025
+
+[Lecture Notes](/notes/04-01-2025.pdf)
+
 ### 03/27/2025
 [Midterm Exam Solution](/files/MidtermExamSolution.pdf)  
 
