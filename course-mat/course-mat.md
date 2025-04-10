@@ -18,6 +18,11 @@ All new lectures will be added to the playlist below in order as they were given
 
 [Assignment 2](/files/assignment3.pdf)
 
+### 04/08/2025
+
+[Lecture Notes](/notes/04-08-2025.pdf)
+[Mathematica Notebook](/notes/04-03-2025_mathematica_notebook.pdf)
+
 ### 04/03/2025
 
 [Lecture Notes](/notes/04-03-2025.pdf)
