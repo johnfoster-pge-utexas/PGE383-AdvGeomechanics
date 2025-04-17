@@ -14,12 +14,17 @@ All new lectures will be added to the playlist below in order as they were given
 
 <a href="https://www.youtube.com/playlist?list=PLCnlJOMhMC0MUOWi3-kx6STs1S-2j45qZ" target="blank_">Playlist</a>
 
-### 04/16/2025
+### 04/17/2025
 
 [Assignment 4](/files/assignment4.pdf)
 
+### 04/15/2025
+
+[Lecture Notes](/notes/04-15-2025.pdf)
+
 ### 04/10/2025
 
+[Lecture Notes](/notes/04-10-2025.pdf)
 [Assignment 3](/files/assignment3.pdf)
 
 ### 04/08/2025
