@@ -17,10 +17,14 @@ All new lectures will be added to the playlist below in order as they were given
 ### 04/17/2025
 
 [Assignment 4](/files/assignment4.pdf)
+[Mathematica Notebook](/notes/04-17-2025_mathematica_notebook.pdf)
+
+The written class notes were corrupted. But the video is available on the playlist above.
 
 ### 04/15/2025
 
 [Lecture Notes](/notes/04-15-2025.pdf)
+[Mathematica Notebook](/notes/04-15-2025_mathematica_notebook.pdf)
 
 ### 04/10/2025
 
