@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>/2015/index.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/archive.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/index.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/course-mat/index.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/index.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/posts/welcome.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/syllabus/index.html</loc>
+  <lastmod>2025-04-25T10:12:00Z</lastmod>
+ </url>
+</urlset>
